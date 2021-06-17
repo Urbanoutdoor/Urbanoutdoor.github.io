@@ -8,4 +8,4 @@ Everything about outdoor
 
 ### Support or Contact 联系我们
 
-Having trouble with Urbanoutdoor?  [contact support](mailto://alanbansen@gmail.com) and we’ll help you sort it out.
+Having trouble with Urbanoutdoor?  [contact support](mailto:alanbansen@gmail.com) and we’ll help you sort it out.
